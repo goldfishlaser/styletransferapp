@@ -1,3 +1,2 @@
-# styletransferbymelanie
-Style Transfer App
-A rails application that performs style transfers on submitted images. 
+# styletransferbymelanie.fun
+Style Transfer App is a rails application that performs style transfers on submitted images. 
